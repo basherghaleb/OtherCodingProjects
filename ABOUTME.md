@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @basherghaleb.
+- 👋 Hi, I’m Basher Ghaleb.
 - 👀 I’m interested in Computer Engineering.
 - 🌱 I’m currently pursuing a degree in Computer Engineering (GRADUATING MAY 2023).
 - 💻 Feel free to browse around my repository and check out all the work I've done in-school and side-projects.
